@@ -1,0 +1,277 @@
+.navbar{
+    background-color: #F48FB1 !important; 
+    
+}
+
+
+.nav-link{
+    color: #880E4F !important;
+    font-weight: 600;
+  font-size: 20px;
+  text-decoration: underline;
+
+
+}
+.nav-link:hover{
+    background-color: rgb(214, 79, 124) !important;
+    border-radius: 20px;
+    
+}
+
+
+img{
+    height: 50px;
+    width: 150px;
+}
+ 
+.fa-user,.fa-shopping-cart,.fa-phone,.fa-handshake-o,.fa-commenting{
+    font-size: 25px !important; 
+} 
+ 
+.dropdown-menu{
+    background-color:#D7CCC8 !important;
+    font-family: 'Times New Roman', Times, serif;
+    color:  #880E4F !important;
+    text-shadow: 2px 1px beige;
+}
+
+.list{
+    box-shadow: 10px 10px 20px black ;
+}
+
+
+    /* nav bar complete  */
+
+            /* slider start */
+      
+.slider{
+    height: 525px;
+    width: 1500px;
+}
+ 
+.paragraph{
+    color: #880E4F ;
+    font-size: 30px;
+    font-weight: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 6px;
+
+
+}
+
+
+@media screen and (max-width:600px){
+    .slider{
+        width: 100%;
+    }
+}
+
+/* slider complete */
+
+                               /* card start */
+
+
+.fa-truck,.fa-recycle,.fa-lock,.fa-headphones{
+    font-size: 30px !important;
+    color:transparent;
+     font-family: 'Times New Roman', Times, serif; 
+     margin-right: 10px; 
+     text-shadow: 2px 1px 2px  #880E4F !important;
+    margin-top: 5px;
+    
+}
+
+.card1,.card2,.card3,.card4{
+    /* display: flex !important; */
+    width: 250px;
+    height: 70px;
+    box-shadow: 2px 2px  5px rgb(212, 205, 205) ;
+   align-items: center;
+   justify-content: center;
+   cursor: pointer;
+   
+}
+
+.maincard{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin: 40px;
+
+        
+}
+
+p{
+    color: transparent;
+    margin-top:2px ;
+    font-family: 'Times New Roman', Times, serif;
+    color:   #880E4F ;
+    font-size: 20px;
+    
+}
+.pp{
+    text-align: center;
+}
+
+/* 
+@media screen and (min-width:200px){
+
+          
+} */
+
+         /* card complete */
+
+         /* new arrivals start */
+
+.Newarrivals{
+                margin-top: 50px;
+                margin: 30px;
+
+                
+} 
+
+.card{
+    width: 200px !important;
+    height: auto;
+    left: 60px;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+.arrive{
+    height: 300px !important;
+    width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+
+   
+}
+
+.alert-danger {
+    text-decoration: none !important;
+    background-color: rgb(204, 118, 164) !important;
+
+}
+
+
+.card-title{
+    color:#880E4F ;
+} 
+
+.heading{
+    font-family: 'Tangerine', serif;
+    text-align: center;
+    background-color:  seashell;
+    color:  #880E4F;
+    margin: 40px;
+    
+}
+.card:hover{
+    background-color: rgb(212, 205, 205);
+}
+
+.heading > h2{
+     /* text-shadow: 3px 2px 3px rgb(228, 119, 137); */
+}
+
+/* arrival complete */
+
+.ending{
+    margin-top: 200px;
+    margin: 100px;
+     
+    }  
+
+    .h5{
+        color:#880E4F ;
+        
+    }
+    
+    .mainending{
+        display: flex;
+        margin-top: 60px;
+     justify-content: space-around;  
+    }  
+
+    .ending1,.ending2,.ending3,.ending4{
+                  margin-top: 10px;
+                  font-family: 'Times New Roman', Times, serif;
+                  color:#880E4F ;
+                  text-decoration: underline;
+                  cursor: pointer;
+                  
+                  
+    }
+
+ 
+.greater{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   color:#880E4F ;
+   
+}
+
+    /* footer start */
+.page-footer{
+    background-color:;
+    font-family: 'Times New Roman', Times, serif;
+   background-color: #F48FB1;
+
+}
+
+       
+.footer-copyright{
+    color:#880E4F ;
+    font-family: 'Times New Roman', Times, serif;
+
+   }   
+  .mb-5{
+    color:#880E4F ;
+    cursor: pointer;
+    font-size: 20px;
+    
+  }  
+
+.maincontainer{
+    background-color: seashell;
+}
+
+.complete{
+    background-color: seashell;
+}
+
+
+.gotop{
+    position: fixed;
+     bottom:5px;
+     right: 10px;
+     flex-wrap: wrap;
+     font-size: 50px;
+     color: #880E4F;
+     cursor:pointer;
+    
+} 
+    
+/* home page complete */
+
+
+/* about us start */
+
+h1{
+    color: #880E4F;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    
+}
+
+.input{
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: 10px solid pink ;  
+}
+
+button{
+  width: 80px;
+  
+}
